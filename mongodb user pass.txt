@@ -1,0 +1,7 @@
+user: admin
+pass: carbfreebreakfastbars
+
+MONGO URI
+mongodb://admin:carbfreebreakfastbars@olympia.modulusmongo.net:27017/ixoviZ9y
+MONGO CONSOLE
+mongo olympia.modulusmongo.net:27017/ixoviZ9y -u <user> -p <pass>
